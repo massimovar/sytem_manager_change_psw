@@ -6,7 +6,7 @@ Project:
  Company: ''
  Copyright: ''
  FormatVersion: 1
- ProductVersion: 1.5
+ ProductVersion: 1.6
  CoreVersion: 4.0
  Dependencies:
   2:
@@ -16,11 +16,11 @@ Project:
   3:
    Uri: 'urn:FTOptix:UI'
    Module: FTOptix.UI
-   Version: 14.2
+   Version: 16.0
   4:
    Uri: 'urn:FTOptix:HMIProject'
    Module: FTOptix.HMIProject
-   Version: 6.5
+   Version: 6.6
   5:
    Uri: 'urn:FTOptix:NativeUI'
    Module: FTOptix.NativeUI
@@ -40,7 +40,7 @@ Project:
   10:
    Uri: 'urn:FTOptix:UI:Net'
    Module: FTOptix.UI.Net
-   Version: 14.2
+   Version: 16.0
   11:
    Uri: 'urn:FTOptix:Retentivity:Net'
    Module: FTOptix.Retentivity.Net
@@ -48,7 +48,7 @@ Project:
   12:
    Uri: 'urn:FTOptix:HMIProject:Net'
    Module: FTOptix.HMIProject.Net
-   Version: 4.8
+   Version: 4.9
   13:
    Uri: 'urn:FTOptix:NativeUI:Net'
    Module: FTOptix.NativeUI.Net
@@ -58,13 +58,13 @@ Project:
    Module: FTOptix.NetLogic
    Version: 4.0
  Statistics:
-  TotalNodeCount: 119
-  Objects: 68
+  TotalNodeCount: 215
+  Objects: 89
   ObjectTypes: 1
-  Variables: 50
+  Variables: 123
   VariableTypes: 0
   DataTypes: 0
-  Methods: 0
+  Methods: 2
   References: 0
   ReferenceTypes: 0
   Files: 21
